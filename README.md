@@ -13,6 +13,26 @@ UI автотесты магазина https://www.labirint.ru/
 
 <img src="https://user-images.githubusercontent.com/107774229/198847951-b29f6b8c-6fa6-4ebc-aecf-f42c5fa92984.svg" width="25"> <a href="https://github.com/satrn8/test_page_object" target="_blank">Github</a> 
 
+<img src="https://user-images.githubusercontent.com/107774229/198146350-1c541de9-3ef0-429a-a9cb-96aae4444891.png" width="25"> <a href="https://github.com/satrn8/test_page_object" target="_blank">Jenkins</a> 
+
+<img src="https://user-images.githubusercontent.com/107774229/198146647-42f39a19-07b2-4bde-b21a-b570aa703f09.svg" width="25"> <a href="https://github.com/satrn8/test_page_object" target="_blank">Allure</a> 
+
+____________________________________________________________________________________________
+API автотесты https://reqres.in/
+
+<img src="https://user-images.githubusercontent.com/107774229/198847951-b29f6b8c-6fa6-4ebc-aecf-f42c5fa92984.svg" width="25"> <a href="https://github.com/satrn8/test_page_object" target="_blank">Github</a> 
+
+<img src="https://user-images.githubusercontent.com/107774229/198146350-1c541de9-3ef0-429a-a9cb-96aae4444891.png" width="25"> <a href="https://github.com/satrn8/test_page_object" target="_blank">Jenkins</a> 
+
+<img src="https://user-images.githubusercontent.com/107774229/198146647-42f39a19-07b2-4bde-b21a-b570aa703f09.svg" width="25"> <a href="https://github.com/satrn8/test_page_object" target="_blank">Allure</a> 
+____________________________________________________________________________________________
+Mobile автотесты магазина https://reqres.in/
+
+<img src="https://user-images.githubusercontent.com/107774229/198847951-b29f6b8c-6fa6-4ebc-aecf-f42c5fa92984.svg" width="25"> <a href="https://github.com/satrn8/test_api" target="_blank">Github</a> 
+
+<img src="https://user-images.githubusercontent.com/107774229/198146350-1c541de9-3ef0-429a-a9cb-96aae4444891.png" width="25"> <a href="https://github.com/satrn8/test_page_object" target="_blank">Jenkins</a> 
+
+<img src="https://user-images.githubusercontent.com/107774229/198146647-42f39a19-07b2-4bde-b21a-b570aa703f09.svg" width="25"> <a href="https://github.com/satrn8/test_page_object" target="_blank">Allure</a> 
 
 <!---
 satrn8/satrn8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
