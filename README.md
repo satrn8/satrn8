@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 * <a href="https://github.com/satrn8/test_page_object" target="_blank">UI</a> автотесты магазина https://www.labirint.ru/ 
 * <a href="https://github.com/satrn8/test_api" target="_blank">API</a> автотесты https://reqres.in/
-* <a href="https://github.com/satrn8/test_api" target="_blank">Mobile</a> автотесты магазина [https://www.labirint.ru/](https://ru.labirint.android/)
+* <a href="https://github.com/satrn8/mobile" target="_blank">Mobile</a> автотесты магазина [https://www.labirint.ru/](https://ru.labirint.android/)
 ____________________________________________________________________________________________
 <h1>Технологии, используемые в данном проекте </h1>
 
